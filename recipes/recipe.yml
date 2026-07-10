@@ -40,13 +40,10 @@ modules:
         # desktop stuff
         - appcenter
         - elementary-code
-        - elementary-calendar
         - elementary-dock
         - elementary-greeter
         - elementary-initial-setup
-        - elementary-mail
         - elementary-monitor
-        - elementary-photos
         - elementary-settings
         - elementary-shortcut-overlay
         - elementary-sideload
@@ -104,6 +101,7 @@ modules:
           - io.elementary.screenshot
           - io.elementary.tasks
           - io.elementary.videos
+
           - org.gnome.Epiphany
           - org.gnome.Evince
           - org.gnome.FileRoller
