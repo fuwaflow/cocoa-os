@@ -12,6 +12,9 @@ thanks to https://github.com/garaevdi/prosto/
 - trying to switch desktops with super left right switches ttys but only sometimes idk what causes it, as of 10 july this is still an issue
 - wingpanel and the dock take a few seconds to show up, still an issue as of 10 July 2026
 
+## recent changes
+- added `io.elementary.initial-setup` (new user setup wizard) as of 10 July 2026 — packaged and merged into garaevdi's pantheon-rpm copr
+
 ## Installation
 
 > [!WARNING]  
@@ -41,6 +44,8 @@ The `latest` tag will automatically point to the latest build. That build will s
 ## ISO
 
 If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/how-to/generate-iso/#_top). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
+
+`sudo bluebuild generate-iso --iso-name usagi.iso image ghcr.io/fuwaflow/usagi:latest` 
 
 ## Verification
 
