@@ -9,7 +9,7 @@ thanks to https://github.com/garaevdi/prosto/
 ## current bugs
 - ~~screen recording portal non functional~~ fixed as of 10 July 2026
 - ~~some icons (symbolics?) are missing and idk why~~ fixed as of 10 July 2026
-- ~~trying to switch desktops with super left right switches ttys but only sometimes idk what causes it~~ as of 10 july 2026 i cannot reproduce this anymore
+- trying to switch desktops with super left right switches ttys but only sometimes idk what causes it, as of 10 july this is still an issue
 - wingpanel and the dock take a few seconds to show up, still an issue as of 10 July 2026
 
 ## Installation
