@@ -43,6 +43,7 @@ modules:
         - elementary-calendar
         - elementary-dock
         - elementary-greeter
+        - elementary-initial-setup
         - elementary-mail
         - elementary-monitor
         - elementary-photos
