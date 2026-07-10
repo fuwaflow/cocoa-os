@@ -84,6 +84,7 @@ modules:
       - notify: false
         scope: system
         repo:
+          name: appcenter
           title: appcenter
           url: https://flatpak.elementary.io/repo.flatpakrepo
 
